@@ -52,13 +52,7 @@ A complete desktop application for airline ticket booking and management built w
 2. **Database Setup**:
    - Import the provided SQL file into your MySQL server
 
-3. **Configuration**:
-   - Update database connection details in the code if needed:
-     ```java
-     myobj = DriverManager.getConnection("jdbc:mysql://localhost/ars", "username", "password");
-     ```
-
-4. **Running the Application**:
+3. **Running the Application**:
    - Compile and execute the AirlineReservationSystem.java file
 
 ## Usage Instructions
